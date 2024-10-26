@@ -70,39 +70,6 @@
   </a>
 </p>
 </div>
-
-<h2 align="center">🚀 Featured Projects 🚀</h2>
-<details align="center">
-<summary><h3>🔍 Project Details</h3></summary>
-
-### 🛒 DeepShop - Full Stack E-Commerce Application
-- Complete E-Commerce solution built with MERN Stack
-- **Tech Stack:** React.js, Node.js, Express.js, MongoDB
-- **Key Features:**
-  - User Authentication & Authorization
-  - Admin Dashboard for Product Management
-  - Shopping Cart & Checkout System
-  - Secure Payment Integration
-  - Responsive Design
-  - Multi-role User System
-  - Product Categories & Search
-  - Order Tracking & Management
-
-### 💰 Hisab - Expense Tracking Application
-- Real-time expense tracking application
-- **Tech Stack:** React.js, Firebase
-- **Key Features:**
-  - Daily Payment Entry & Management
-  - User Dashboard with Analytics
-  - Multi-user Support
-  - Real-time Updates
-  - Secure Authentication
-  - Expense Categories
-  - Monthly Reports & Statistics
-  - Data Export Functionality
-
-</details>
-
 <br/>
 
 <h2 align="center">📊 GitHub Statistics 📊</h2>
